@@ -12,3 +12,5 @@ It builds the following ROMs:
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
 For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+
+Once i end up with the English version of the hack, these would be the place for the translations.
